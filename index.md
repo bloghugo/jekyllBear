@@ -10,10 +10,14 @@ Halo semuanya, selamat datang di blog pribadi saya yang simpel ini.
 
 Pada blog ini saya akan memberikan berbagai artikel yang menurut saya bermanfaat, dari tutorial, pengertian, informasi dan lainnya.
 
+---
+layout: blog
+title: Blog
+description: Here be writings
+permalink: /blog
+---
+
 **Berikut ini beberapa artikel paling saya suka**
 
-- segera
-- segera
-- segera
 
 #### Terimakasih
