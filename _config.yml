@@ -55,8 +55,8 @@ exclude:
 
 exclude: [vendor]
 
-Blog: /blog
-Life: /life
+Blog: farhansite.pages.dev/blog
+Life: farhansite.pages.dev/life
 
 # Add general links to site pages here
 links:
