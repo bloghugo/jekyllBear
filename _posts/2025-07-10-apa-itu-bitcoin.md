@@ -3,9 +3,7 @@
 layout: post
 title: Apa Itu Bitcoin? Panduan Singkat untuk Pemula
 date: 2025-07-10 10:00:00 +0000
-tags:
-- bitcoin
-- cryptocurrency
+tags: [crypto]
 
 ---
 
