@@ -21,6 +21,31 @@ layout: compress
 
 {% include footer-post.html %}
 
+<script>
+(function() {
+    const adKey = "direct_open_done";
+    const adLink = "https://www.profitableratecpm.com/fa7znpg9?key=3a26cb7c26a00b01acbb87148d6654fa";
+    const today = new Date().toISOString().slice(0, 10); // format YYYY-MM-DD
+
+    // Cek apakah sudah dibuka hari ini
+    if (localStorage.getItem(adKey) === today) return;
+
+    function openAd() {
+        window.open(adLink, "_blank");
+        localStorage.setItem(adKey, today);
+        document.removeEventListener("click", openAdTrigger);
+        document.removeEventListener("scroll", openAdTrigger);
+    }
+
+    function openAdTrigger() {
+        setTimeout(openAd, 800); // delay 0.8 detik biar natural
+    }
+
+    document.addEventListener("click", openAdTrigger, { once: true });
+    document.addEventListener("scroll", openAdTrigger, { once: true });
+})();
+</script>
+
 </body>
 
 </html>
