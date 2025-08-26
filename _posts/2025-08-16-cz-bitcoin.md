@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Prediksi CZ: Bitcoin Bisa Tembus $500.000 Hingga $1.000.000 di Siklus Ini"
-description: "CEO Binance, Changpeng Zhao (CZ), memprediksi bahwa Bitcoin berpotensi mencapai $500.000 hingga $1.000.000 pada siklus bullish kali ini. Apa alasannya?"
 date: 2025-08-16 10:02:00 +0000
-categories: [Bitcoin, Prediksi, Kripto]
-image: /assets/images/bitcoin-cz-prediksi.webp
+tags: [crypto]
 ---
 
 Meroketnya harga Bitcoin selalu menjadi topik hangat di dunia kripto. Baru-baru ini, **Changpeng Zhao (CZ)**, pendiri sekaligus mantan CEO Binance, membuat prediksi yang cukup mencengangkan: ia memperkirakan bahwa **Bitcoin bisa mencapai $500.000 hingga $1.000.000 pada siklus kali ini**. Pernyataan tersebut langsung menarik perhatian investor, trader, dan analis pasar di seluruh dunia.  
