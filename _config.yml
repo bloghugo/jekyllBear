@@ -3,10 +3,10 @@
 
 title: EXME
 description: a minimal, text focused blog theme
-# baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
-url: "/" # the base hostname & protocol for your site
-# host: 0.0.0.0
 
+# Untuk custom domain
+url: "https://farhan.js.org"
+baseurl: ""  # kosongkan jika tidak pakai subfolder
 
 #########################
 # more settings
@@ -28,14 +28,11 @@ compress_html:
   ignore:
     envs: []
 
-# sass:
-#   sass_dir: css
-#   style:    compressed
-
 collections:
   my_tags:
     output: true
     permalink: /tagged/:slug/
+
 defaults:
   -
     scope:
@@ -44,25 +41,22 @@ defaults:
     values:
       layout: tagged
 
-# baseurl: ""
 permalink: /blog/:slug
-timezone: America/New_York
+timezone: Asia/Jakarta
 future: false
 
 exclude:
-- README.md
-- LICENSE.md
-
-exclude: [vendor]
+  - README.md
+  - LICENSE.md
+  - vendor
 
 Blog: blog
 Life: life
-Crypto : crypto
+Crypto: crypto
 
 # Add general links to site pages here
 links:
   # Resume: /assets/resume.pdf
-  
 
 # Add links for more focus here
 special_links:
